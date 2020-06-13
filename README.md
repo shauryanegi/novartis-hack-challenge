@@ -10,6 +10,7 @@ This is not a Novartis website. Information on this site is solely for purposes 
 
 Know more about the Hiring challenges by - https://www.instagram.com/hackerearth/
 
+### I used the LightGBM algorithm to get a recall score of 99.7. Screenshot is attached on the repo.
 
 ## LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient with the following advantages:
 
